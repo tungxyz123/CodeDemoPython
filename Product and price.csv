@@ -1,0 +1,51 @@
+product_id,product_name,category_id,price,stock_quantity
+1,Smartphone Model X,1,699.99,150
+2,Laptop Pro 15,1,1199.99,100
+3,4K Smart TV 55",1,799.99,75
+4,Wireless Earbuds,1,129.99,200
+5,Bluetooth Speaker,1,89.99,180
+6,Vacuum Cleaner Z200,2,249.99,50
+7,Air Purifier Max,2,199.99,120
+8,Refrigerator XL,2,999.99,30
+9,Microwave Oven QuickHeat,2,149.99,85
+10,Air Conditioner CoolBreeze,2,399.99,40
+11,Men's Casual Shirt,3,29.99,250
+12,Women's Jeans,3,49.99,220
+13,Running Shoes,3,89.99,180
+14,Winter Jacket,3,129.99,60
+15,Leather Wallet,3,39.99,300
+16,Face Cream Ultra,4,19.99,500
+17,Shampoo Plus,4,12.99,450
+18,Lipstick Set,4,24.99,400
+19,Hair Dryer Pro,4,59.99,150
+20,Body Lotion,4,15.99,350
+21,Bestseller Novel,5,14.99,200
+22,Self-Help Guide,5,19.99,180
+23,Children's Storybook,5,9.99,220
+24,Science Fiction Collection,5,29.99,100
+25,History Book,5,24.99,90
+26,Sofa Set,6,799.99,20
+27,Dining Table 6-Seater,6,499.99,15
+28,Office Chair Comfort,6,149.99,40
+29,Bookshelf Classic,6,99.99,60
+30,King Size Bed,6,899.99,10
+31,Teddy Bear,7,19.99,300
+32,Board Game Adventure,7,29.99,150
+33,Building Blocks Set,7,49.99,200
+34,Remote Control Car,7,39.99,180
+35,Dollhouse Dream,7,89.99,120
+36,Yoga Mat Pro,8,29.99,250
+37,Dumbbell Set,8,59.99,150
+38,Treadmill FitRunner,8,699.99,20
+39,Exercise Bike SpinPro,8,499.99,30
+40,Resistance Bands,8,19.99,400
+41,Organic Granola,9,8.99,500
+42,Almond Butter,9,14.99,300
+43,Protein Bar Pack,9,24.99,200
+44,Cold Brew Coffee,9,3.99,1000
+45,Herbal Tea Assortment,9,12.99,350
+46,Notebook Planner,10,9.99,400
+47,Office Desk Organizer,10,19.99,150
+48,Printer Ink Cartridge,10,34.99,200
+49,Stapler Heavy Duty,10,14.99,180
+50,Whiteboard Markers,10,5.99,300
